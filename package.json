@@ -1,0 +1,26 @@
+{
+  "name": "gitbook-plugin-sourcelist",
+  "version": "1.0.0",
+  "description": "Insert a source-listing",
+  "engines": {
+    "gitbook": ">2.x.x"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildfly-swarm/gitbook-sourcelist.git"
+  },
+  "keywords": [
+    "gitbook",
+    "sourcelist"
+  ],
+  "author": "Cucumber Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wildfly-swarm/gitbook-plugin-sourcelist/issues"
+  },
+  "homepage": "https://github.com/wildfly-swarm/gitbook-plugin-sourcelist#readme",
+  "dependencies": [
+    "file"
+  ]
+}
